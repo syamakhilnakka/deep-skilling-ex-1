@@ -1,0 +1,1 @@
+# Score Calculator AppThis React application calculates and displays a student's average score.## How to Run1. Install dependencies:
