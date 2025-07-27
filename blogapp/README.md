@@ -1,0 +1,1 @@
+# BlogAppThis React app fetches and displays blog posts using class components and lifecycle methods.## Features- `componentDidMount()` to fetch posts- `componentDidCatch()` to handle rendering errors- Uses dummy data from https://jsonplaceholder.typicode.com/posts## Run the App```bashnpm installnpm start
