@@ -1,0 +1,1 @@
+This project demonstrates how to clean up a Git repository, pull from remote, and push pending changes back to the remote repository.
